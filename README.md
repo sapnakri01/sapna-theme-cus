@@ -1,1 +1,1 @@
-# sapna-theme-cus
+# sapna-theme-custom
